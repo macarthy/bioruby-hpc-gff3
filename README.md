@@ -10,9 +10,17 @@ of that library.
 
 ## Installation
 
+
 TODO: Write scripts for installation.
 
 ### Run tests
+
+A D compliler is required to run the tests.
+
+If you are using homebrew on OsX you can install dmd like so:
+
+$ brew install dmd
+
 
 Currently only D unit tests are working. You can run them using the
 "unittests" rake task, like this:
